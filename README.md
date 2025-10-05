@@ -44,9 +44,3 @@ Feature Selection
 - Selected numeric features strongly correlated with Price:  
     ram_memory, total_storage, display_size 
 - Helps reduce noise and improve **machine learning model performance**.
-
-
-1. Clone the repository.
-2. Install requirements:  
-```bash
-pip install -r requirements.txt
