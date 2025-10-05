@@ -19,67 +19,10 @@ The dataset includes the following columns:
 
 Exploratory Data Analysis (EDA)
 
-### 🔹 Average Price per Brand
-Shows the average laptop price for each brand.  
-Useful for comparing **brand pricing trends**.
-![Average Price per Brand](images/avg_price_per_brand.png)
-
----
-
 ### 🔹 Average Price of Each Brand (Alternate View)
 Displays another perspective on **average price distribution** across brands.  
 ![Average Price of Each Brand](images/avg_price_of_each_brand.png)
 
----
-
-### 🔹 Brand Distribution
-Pie chart / count plot of **brands available** in the dataset.  
-![Brand Value Counts](images/brand_valuecounts.png)
-
----
-
-### 🔹 GPU Brand Count
-Shows how many laptops use each **GPU brand**.  
-Helps identify GPU popularity trends.  
-![GPU Brand Count](images/gpu_brand_count.png)
-
----
-
-### 🔹 Price vs Rating
-Visualizes the relationship between **price** and **rating**.  
-Helps in understanding if expensive laptops have better ratings.  
-![Price vs Ratings](images/prices_ratings.png)
-
----
-
-### 🔹 Outlier Representation (Boxplot)
-Highlights **price outliers** and overall distribution.  
-![Outlier Representation](images/outliers_representation.png)
-
----
-
-### 🔹 Price vs Display Size – Outliers
-Shows how display size influences price and where outliers occur.  
-![Price vs Display Size Outliers](images/prices_displaysize_outliers.png)
-
----
-
-### 🔹 Price vs RAM – Outliers
-Examines laptops where **price vs RAM** combinations behave abnormally.  
-![Price vs RAM Outliers](images/prices_ram_outliers.png)
-
----
-
-### 🔹 Top 8 Brands
-Pie chart representation of the **top 8 laptop brands** in the dataset.  
-![Top 8 Brands](images/top_8_brands.png)
-
----
-
-### 🔹 Correlation Heatmap
-Displays the correlation between all numeric variables.  
-Used for **feature selection** and detecting multicollinearity.  
-![Correlation Heatmap](images/correlation.png)
 Feature Engineering
 
 - Total Storage: primary_storage_capacity + secondary_storage_capacity  
