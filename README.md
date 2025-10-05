@@ -25,12 +25,6 @@ Exploratory Data Analysis (EDA)
 - Shows the average price for each brands.
 - Useful for comparing brand positioning and pricing trends.
 
-2. Outlier Representation (Price Boxplot)
-![Price Outliers](images/outliers_representation.png)
-
-- Highlights outliers in laptop prices.
-- Helps in data cleaning and understanding extreme values.
-
 Feature Engineering
 
 - Total Storage: primary_storage_capacity + secondary_storage_capacity  
