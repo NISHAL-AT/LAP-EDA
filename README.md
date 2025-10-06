@@ -19,11 +19,9 @@ The dataset includes the following columns:
 
 Exploratory Data Analysis (EDA)
 
-1. Average Price per Brand
-![Average Price per Brand](images/avg_price_of_each_brand.png)
-
-- Shows the average price for each brands.
-- Useful for comparing brand positioning and pricing trends.
+### 🔹 Average Price of Each Brand (Alternate View)
+Displays another perspective on **average price distribution** across brands.  
+![Average Price of Each Brand](images/avg_price_of_each_brand.png)
 
 Feature Engineering
 
